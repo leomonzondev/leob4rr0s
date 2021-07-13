@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
-- 📫 How to reach me **cristianleonardobm@gmail.com**
+- 📫 Contact me **cristianleonardobm@gmail.com**
 
-- ⚡ Also **I'm Musician and Photographer.**
+- ⚡ Also **I'm Musician and Photographer**
 
 ## 🚀 Languages and Tools:
 
