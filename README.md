@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development, Phyton, and CyberSecurity**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](WIP)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
 - 📫 How to reach me **cristianleonardobm@gmail.com**
 
