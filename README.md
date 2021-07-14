@@ -11,7 +11,6 @@
 
 - 📫 Contact me **cristianleonardobm@gmail.com**
 
-- ⚡ Also **I'm Musician and Photographer**
 
 ## 🚀 Languages and Tools:
 
