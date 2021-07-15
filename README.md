@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/4H1sHOC.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Leo</h1>
-<h3 align="center">Aspiring to be a Full Stack Developer. I'm from Argentina.</h3>
+<h3 align="center">Aspiring to be a Full Stack Developer.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -10,6 +10,8 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
 - 📫 Contact me **cristianleonardobm@gmail.com**
+
+- 🇦🇷  I'm from Argentina.
 
 
 ## 🚀 Languages and Tools:
