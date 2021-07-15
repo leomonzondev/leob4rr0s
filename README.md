@@ -32,7 +32,8 @@
    <img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
     <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>
     <img src="https://img.icons8.com/fluent/50/000000/adobe-xd.png"/>
-</p>
+    <img src="https://i.imgur.com/7wVYKsL.png"/>
+    <img src="https://i.imgur.com/L73ZNcL.png"/>
 
 ## Connect with me:
 <p align="left">
