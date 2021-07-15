@@ -11,7 +11,7 @@
 
 - 📫 Contact me **cristianleonardobm@gmail.com**
 
-- 🇦🇷  I'm from Argentina.
+- 📍  I'm from Argentina.
 
 
 ## 🚀 Languages and Tools:
