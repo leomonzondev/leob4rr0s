@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Full Stack Development, Phyton, and CyberSecurity**
+- 🌱 I’m currently learning **Full Stack Development, and CyberSecurity**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
