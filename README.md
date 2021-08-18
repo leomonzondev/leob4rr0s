@@ -11,7 +11,7 @@
 
 - 📫 Contact me **cristianleonardobm@gmail.com**
 
-- 🌎 Citizen of the planet Earth, born in Argentina.
+- 🌎 Born in Argentina.
 
 
 ## 🚀 Languages and Tools:
