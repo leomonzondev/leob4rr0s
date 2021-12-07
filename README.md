@@ -27,6 +27,7 @@
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
     <img src="https://i.imgur.com/7wVYKsL.png"/>
     <img src="https://i.imgur.com/L73ZNcL.png"/>
+    <img src="https://i.imgur.com/eSnQXZg.png" />
 
 ## Connect with me:
 <p align="left">
