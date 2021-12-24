@@ -18,7 +18,6 @@
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/> 
     <img src="https://img.icons8.com/color/48/000000/git.png"/>  
