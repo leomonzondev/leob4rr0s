@@ -1,11 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/4H1sHOC.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Leo</h1>
-<h3 align="center">Aspiring to be a Full Stack Developer and Pentester.</h3>
+<h3 align="center">Aspiring to be a Frontend Developer and Pentester.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Full Stack Development, and CyberSecurity**
+- 🌱 I’m currently improving my skills in **Frontend Development, and CyberSecurity**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
