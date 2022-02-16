@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Leo</h1>
-<h3 align="center">Frontend Dev and Pentester</h3>
+<h3 align="center">Web / App Developer and Pentester</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -7,25 +7,28 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
-- 🌎 Born in Argentina.
+- 🌎 Based in La Plata, AR
 
 
-## 🚀 Languages and Tools:
+## 🛠️ Tech Stack:
 
-<p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-   <img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
-    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-    <img src="https://i.imgur.com/eSnQXZg.png" />
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/cristian-leonardo-barros-monzon/" target = "_blank" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://twitter.com/crisleobm"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-</p>
+- 📱 &nbsp;Mobile:&nbsp;
+  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+- 🗄 &nbsp;Backend:&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+- 🌐 &nbsp;Frontend:&nbsp;
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+- 🛢 &nbsp;Database:&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+- ⚙️ &nbsp;VCS: &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+- 🔧 &nbsp;IDE's:&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;Design:&nbsp;
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobe-photoshop)
+  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
+- ⚔️ &nbsp;CyberSec:&nbsp;
+    ![Kali](https://img.shields.io/badge/-Kali%20linux-0A1A2F?style=flat&logo=kali-linux)
+<br/>
