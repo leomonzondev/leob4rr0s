@@ -21,7 +21,6 @@
   <a href="#"><img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
   <a href="#"><img  alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
   <a href="#"><img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
-  <a href="#"><img  alt="React Native" src="https://img.shields.io/badge/-React%20Native-0A1A2F?style=for-the-badge&logo=React&logoColor=00d8fd"/></a>
   <a href="#"><img  alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/></a>
   <a href="#"><img  alt="Next" src="https://img.shields.io/badge/-Next.js-0A1A2F?style=for-the-badge&logo=next.js&color=black"/></a>
   <a href="#"><img  alt="Figma" src="https://img.shields.io/badge/-Figma-0A1A2F?style=for-the-badge&logo=figma&color=f76e5f&logoColor=white"/></a>
@@ -45,13 +44,6 @@
     <a href="#"><img  alt="React Testing Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/></a>
   </div>
 
-
-### ⛓️ Blockchain
-
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img  alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/></a>
-  
-</div>
 
 ### ⚙️ VCS 
 
