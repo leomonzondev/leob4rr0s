@@ -61,9 +61,7 @@
 ## 🤝 Socials
 
 <div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/crisleobm" target="_blank"><img  alt="Twitter" src="https://img.shields.io/badge/crisleobm-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UCo36TS1nQej0qcWlpOl-8yw" target="_blank"><img  alt="Youtube" src="https://img.shields.io/badge/lemondev-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cristian-leonardo-barros-monzon/" target="_blank"><img  alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cristian-leonardo-barros-monzon/" target="_blank"><img  alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
   
 </div>
