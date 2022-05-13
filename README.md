@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving my skills in **Frontend Development, and CyberSecurity**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
+- 👨‍💻 All of my projects are available at **[<a href="https://www.leomonzon.dev" target="_blank" rel="noreferrer" >My Portfolio</a>](#)**
 
 - 🌎 Based in La Plata, AR
 
