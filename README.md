@@ -1,13 +1,15 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Leo</h1>
-<h3 align="center">Web / App Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Leo%20Monz%C3%B3n&fontAlign=75&fontAlignY=40&color=0:caff00,100:00ecff&animation=fadeIn&fontColor=ffffff" />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
+<h3 align="center">I'm a Web / App Developer</h3>
+
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently improving my skills in **Frontend Development, and CyberSecurity**
+- 🌱 Always improving my skills in **Frontend Development, and CyberSecurity**
 
 - 👨‍💻 All of my projects are available at **[<a href="https://www.leomonzon.dev" target="_blank" rel="noreferrer" >My Portfolio</a>](#)**
 
-- 🌎 Based in La Plata, AR
+- 🌎 Based in Encarnación, PY
 
 ## 🛠️ Tech Stack:
 
@@ -18,7 +20,6 @@
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
-  <a href="#"><img  alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/></a>
   <a href="#"><img  alt="Next" src="https://img.shields.io/badge/-Next.js-0A1A2F?style=for-the-badge&logo=next.js&color=black"/></a>
   <a href="#"><img  alt="Figma" src="https://img.shields.io/badge/-Figma-0A1A2F?style=for-the-badge&logo=figma&color=f76e5f&logoColor=white"/></a>
 
