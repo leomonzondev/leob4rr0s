@@ -35,13 +35,6 @@
 </div>
 
 
-### ⚙️ VCS 
-
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img  alt="Git" src="https://img.shields.io/badge/-Git-0A1A2F?style=for-the-badge&logo=git"/></a>
-</div>
-
-
 ### ⚔️ Cybersec 
 
 <div>
