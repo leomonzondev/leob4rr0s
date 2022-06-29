@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Leo%20Monz%C3%B3n&fontAlign=75&fontAlignY=40&color=0:caff00,100:00ecff&animation=fadeIn&fontColor=ffffff" />
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
-<h3 align="center">I'm a Web / App Developer</h3>
+
+<h3 align="center">Web / App Developer</h3>
 
 
 ## 🙋‍♂️ About Me
