@@ -9,7 +9,7 @@
 
 - 👨‍💻 **[<a href="https://www.leomonzon.dev" target="_blank" rel="noreferrer" >My Portfolio</a>](#)**
 
-- 🌎 Based in Encarnación, PY
+- 🌎 Encarnación, PY / La Plata, ARG
 
 ## 🛠️ Tech Stack:
 
