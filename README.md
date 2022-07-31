@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Always improving my skills in **Frontend Development, and CyberSecurity**
+- 🌱 Always improving my skills in **Frontend Development, and Pentesting**
 
 - 👨‍💻 **[<a href="https://www.leomonzon.dev" target="_blank" rel="noreferrer" >My Portfolio</a>](#)**
 
