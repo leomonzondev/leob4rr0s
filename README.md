@@ -7,7 +7,7 @@
 
 - 🌱 Always improving my skills in **Frontend Development, and Pentesting**
 
-- 👨‍💻 **[<a href="https://www.leomonzon.dev" target="_blank" rel="noreferrer" >My Portfolio</a>](#)**
+- 👨‍💻 **[<a href="https://www.leomonzon.dev" target="_blank" rel="noreferrer" >My Portfolio</a>](#)** v1 [WIP Portfolio v2]
 
 - 🌎 Encarnación, PY / La Plata, ARG
 
