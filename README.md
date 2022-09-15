@@ -9,7 +9,7 @@
 
 - 👨‍💻 **[<a href="https://www.leomonzon.dev" target="_blank" rel="noreferrer" >My Portfolio</a>](#)** v2 [WIP]
 
-- 🌎 Posadas, AR / La Plata, ARG
+- 🌎 Posadas, ARG / La Plata, ARG
 
 ## 🛠️ Tech Stack:
 
