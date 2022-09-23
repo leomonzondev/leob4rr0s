@@ -7,7 +7,7 @@
 
 - 🌱 Always improving my skills in **Web Development, and Pentesting**
 
-- 👨‍💻 **[<a href="https://www.leomonzon.dev" target="_blank" rel="noreferrer" >My Portfolio</a>](#)** v2 [WIP]
+- 👨‍💻 **[<a href="https://www.leomonzon.dev" target="_blank" rel="noreferrer" >My Portfolio</a>](#)**
 
 - 🌎 Posadas, ARG / La Plata, ARG
 
